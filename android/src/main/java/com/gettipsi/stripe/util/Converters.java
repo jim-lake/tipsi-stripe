@@ -1,6 +1,6 @@
 package com.gettipsi.stripe.util;
 
-import javax.annotation.NonNull;
+import androidx.annotation.NonNull;
 import javax.annotation.Nullable;
 import android.text.TextUtils;
 

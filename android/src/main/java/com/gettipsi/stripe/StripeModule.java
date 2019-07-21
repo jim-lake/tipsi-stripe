@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
-import javax.annotation.NonNull;
+import androidx.annotation.NonNull;
 import javax.annotation.Nullable;
 import android.text.TextUtils;
 
